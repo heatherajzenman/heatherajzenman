@@ -2,7 +2,7 @@
 
 **I'm a:** 13 Year Occupational Therapist &middot; Entrepreneur &middot; Neurodivergent &middot; Public Speaker &middot; Female Business Owner
 
-You may also call me **Dr Ajzenman.**
+You may also call me **Dr Ajzenman.** I got my _doctorate_ at Washington State University in Missouri.
 
 Please [Sponsor](https://github.com/sponsors/andreimerlescu) [@playandprosper](https://github.com/playandprosper)'s _open source_ development on GitHub!
 
