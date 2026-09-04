@@ -1,6 +1,6 @@
 ## Hey There 👋 I'm Heather! 
 
-**I'm a::** 13 Year Occupational Therapist &middot; Entrepreneur &middot; Neurodivergent &middot; Public Speaker &middot; Female Business Owner
+**I'm a:** 13 Year Occupational Therapist &middot; Entrepreneur &middot; Neurodivergent &middot; Public Speaker &middot; Female Business Owner
 
 You may also call me **Dr Ajzenman.**
 
