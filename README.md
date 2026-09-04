@@ -4,7 +4,7 @@
 
 You may also call me **Dr Ajzenman.** I got my _doctorate_ at Washington State University in Missouri.
 
-Please consider [Sponsoring](https://github.com/sponsors/andreimerlescu) [@playandprosper](https://github.com/playandprosper)'s _open source_ development on GitHub being performed by [@andreimerlescu](https://github.com/andreimerlescu)!
+Please consider [Sponsoring](https://github.com/sponsors/andreimerlescu) [@playandprosper](https://github.com/playandprosper)'s _open source_ development efforts by sowing directly into [@andreimerlescu](https://github.com/andreimerlescu)'s [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) profile!
 
 
 ## Technology Solutions Utilized
