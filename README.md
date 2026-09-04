@@ -4,7 +4,7 @@
 
 You may also call me **Dr Ajzenman.** I got my _doctorate_ at Washington State University in Missouri.
 
-Please support [@playandprosper](https://github.com/playandprosper)'s _open source_ development efforts by sowing directly into [@andreimerlescu](https://github.com/andreimerlescu)'s [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) profile!
+Please support [@playandprosper](https://github.com/playandprosper)'s _open source_ development efforts by sowing directly into [@andreimerlescu](https://github.com/andreimerlescu)'s [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) profile! Andrei is my husband, and we started the practice together in 2020 before the pandemic.
 
 
 ## Technology Solutions Utilized
