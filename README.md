@@ -10,7 +10,7 @@ Please support [@playandprosper](https://github.com/playandprosper)'s _open sour
 ## Technology Solutions Utilized
 
 <details>
-  <summary>In 2020, I started <b>Play and Prosper Therapy, PLLC</b> with the help and support of my professional network and husband. We've treated hundreds of patients. We have plans to expand nationwide, and then to go global. We have three products for sale that help support the development related needs of <b>Play and Prosper</b> in pursuing those goals.</summary>
+  <summary>In 2020, I started <b>Play and Prosper Therapy, PLLC</b> with the help and support of my professional network and husband. I've treated hundreds of patients. We have plans to expand nationwide, and then to go global. We have three products for sale that help support the development related needs of <b>Play and Prosper</b> in pursuing those goals.</summary>
 
 ### Topobuilder
 
