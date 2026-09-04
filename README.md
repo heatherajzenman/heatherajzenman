@@ -59,6 +59,6 @@ This product has been used in production since 2026.
 
 | Product | Author | Notes |
 |---------|-------|-------|
-| topobuilder | [Andrei Merlescu](https://github.com/sponsors/andreimerlescu) | Go binary designed to deploy multi-region cluster for PHP website |
+| topobuilder | [Andrei Merlescu](https://github.com/sponsors/andreimerlescu) | Deploys site to multi-region cluster with load balancer |
 | php-avc | [Andrei Merlescu](https://github.com/sponsors/andreimerlescu) | PHP framework for building websites |
-| i18n | [Andrei Merlescu](https://github.com/sponsors/andreimerlescu) | Go binary providing daemon, cli and REST API access to 22 localizations and 17 speakable language translations powered by local AI. |
+| i18n | [Andrei Merlescu](https://github.com/sponsors/andreimerlescu) | Internationalization for 22 localizations and 17 speakable languages using local AI. |
