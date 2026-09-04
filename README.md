@@ -10,7 +10,7 @@ Please [Sponsor](https://github.com/sponsors/andreimerlescu) [@playandprosper](h
 ## Technology Solutions Utilized
 
 <details>
-  <summary>My husband [@andreimerlescu](https://github.com/andreimerlescu) joined GitHub as user 91,485 in 2009. I met him in 2015 while working in North Carolina. We got married in 2016 and started the practice in 2020. We have three products for sale that help support the development related needs of <b>Play and Prosper</b>.</summary>
+  <summary>My husband (@andreimerlescu)[https://github.com/andreimerlescu] joined GitHub as user 91,485 in 2009. I met him in 2015 while working in North Carolina. We got married in 2016 and started the practice in 2020. We have three products for sale that help support the development related needs of <b>Play and Prosper</b>.</summary>
 
 ### Topobuilder
 
